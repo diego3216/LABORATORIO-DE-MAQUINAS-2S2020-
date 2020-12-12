@@ -1,0 +1,1 @@
+En la exposición del paper seleccionado se busca presentar un resumen de los puntos más relevantes haciendo énfasis en las perdidas de energía eléctrica en un motor de inducción y de como estas afectan a la industria. 
